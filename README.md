@@ -18,7 +18,7 @@
 </p>
 <h3 align="left">Contact Me</h3>
 
-![Website](https://img.shields.io/badge/-www.pardaad.com-333333?style=flat&logo=google-chrome) ![Email](https://img.shields.io/badge/-mehdi@pardaad.com-333333?style=flat&logo=gmail) ![Telegram](https://img.shields.io/badge/-imehdisharif-333333?style=flat&logo=telegram&logoColor=fff)
+![Website](https://img.shields.io/badge/-www.pardaad.com-333333?style=flat&logo=google-chrome) ![Email](https://img.shields.io/badge/-mehdi.sharifs.ir@gmail.com-333333?style=flat&logo=gmail) ![Telegram](https://img.shields.io/badge/-imehdisharif-333333?style=flat&logo=telegram&logoColor=fff)
 
 <h3 align="left">Languages and Tools</h3>
 
