@@ -23,4 +23,4 @@
 
 <br>
 
-![Pardaad GitHub stats](https://github-readme-stats.vercel.app/api?username=pardaad&count_private=true&show_icons=true&theme=transparent&hide_border=true)
+![Pardaad GitHub stats](https://github-readme-stats.vercel.app/api?username=pardaad&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
