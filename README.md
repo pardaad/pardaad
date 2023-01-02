@@ -3,14 +3,21 @@
 
 <h3 align="left">About Me </h3>
 
-- I am an experienced Wordpress Developer with experience working on APIs and complex web services.
-- Exploring new technologies and developing WordPress Web Apps.
-- Ask me about WordPress, WordPress REST API & Plugin Development.
+I am a consummate WordPress Developer with a professional background in building WordPress CMS websites using de-facto standard plugins. I have over 10 years of programming, CSS, and Javascript experience, and am proficient in inbuilt WordPress functions, custom post types, and developing widgets to conform with WordPress coding standards.
+
+I have experience as a freelance WordPress developer, as well as working with companies such as Smart Arjang Co. and Pardaad ICT Co. In these roles, I have designed and implemented websites from initial concept to finished deliverables, converted design assets into HTML, CSS, and JavaScript, and collaborated with design and project developers to understand project scope and offer creative solutions.
+
+Thank you for visiting my profile. Please feel free to reach out to me with any questions or opportunities.
+
+<h3>Read my blog</h3>
+
+If you want to learn more about WordPress development, check out my medium posts for insights and updates on the latest trends in the industry. <a href="https://medium.com/@mehdisharif">Click Here</a>
 
 <h3 align="left">Follow Me</h3>
 <p align="left">
-<a href="https://twitter.com/mehdisharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehdisharif" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehdi-sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-sharif" height="30" width="40" /></a>
+<a href="https://medium.com/@mehdisharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mehdi-sharif" height="30" width="40" /></a>
+<a href="https://twitter.com/mehdisharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehdisharif" height="30" width="40" /></a>
 <a href="https://instagram.com/mehdisharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehdisharif" height="30" width="40" /></a>
 </p>
 <h3 align="left">Contact Me</h3>
