@@ -17,6 +17,7 @@ If you want to learn more about WordPress development, check out my medium posts
 <p align="left">
 <a href="https://linkedin.com/in/mehdi-sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-sharif" height="30" width="40" /></a>
 <a href="https://medium.com/@mehdisharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mehdi-sharif" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/20175480/mehdi-sharif?tab=topactivity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehdi-sharif" height="30" width="40" /></a>
 <a href="https://twitter.com/mehdisharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehdisharif" height="30" width="40" /></a>
 <a href="https://instagram.com/mehdisharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehdisharif" height="30" width="40" /></a>
 </p>
