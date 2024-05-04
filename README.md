@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me </h3>
 
-I am a consummate WordPress Developer with a professional background in building WordPress CMS websites using de-facto standard plugins. I have over 17 years of programming, CSS, and Javascript experience, and am proficient in inbuilt WordPress functions, custom post types, and developing widgets to conform with WordPress coding standards.
+I am a consummate WordPress Developer with a professional background in building WordPress CMS websites using de-facto standard plugins. I have over 19 years of programming, CSS, and Javascript experience, and am proficient in inbuilt WordPress functions, custom post types, and developing widgets to conform with WordPress coding standards.
 
 I have experience as a freelance WordPress developer, as well as working with companies such as Smart Arjang Co. and Pardaad ICT Co. In these roles, I have designed and implemented websites from initial concept to finished deliverables, converted design assets into HTML, CSS, and JavaScript, and collaborated with design and project developers to understand project scope and offer creative solutions.
 
